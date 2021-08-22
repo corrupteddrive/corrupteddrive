@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @corrupteddrive
-- 👀 I’m interested in ... music, cool code, gaming and linux stuff!
-- 🌱 I’m currently learning ... nothing
-- 💞️ I’m looking to collaborate on ... nothing
-- 📫 How to reach me ... Nope. Go away.
+- Hi, I’m @corrupteddrive
+- I’m interested in ... music, code, gaming and linux stuff!
+- I’m currently learning ... nothing
+- I’m looking to collaborate on ... nothing
+- How to reach me ... try and find me first hehe
