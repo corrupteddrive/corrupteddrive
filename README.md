@@ -1,5 +1,5 @@
 Just a random weeb that likes to program in his spare time. 
-Visit https://linktr.ee/corruptedharddrive for my socials if you wanna be scarred for life.
+Visit https://linktr.ee/corruptedharddrive for my socials if you wanna be scarred for life lol.
 
 Oh, and if you wanna talk to me in private you can encrypt your message with my PGP key:
 
