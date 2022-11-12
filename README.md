@@ -6,11 +6,9 @@ Oh and if you want to donate some BTC (which is *highly appreciated*) just check
 <details>
   <summary>BTC Address</summary>
   <br>
-  <img src="../assets/qrcode.png"
+  <img src="assets/qrcode.png">
   
-  ~~~~~~~~~~
-  bc1qkau4v6cljs8ugs84htfd3gzjx5pxuaxcf2zx03
-  ~~~~~~~~~~~~
+  `bc1qkau4v6cljs8ugs84htfd3gzjx5pxuaxcf2zx03`
 </details>
   
 <details>
