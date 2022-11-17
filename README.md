@@ -72,3 +72,6 @@ DAeeutQTcJLQ0tZ2BkAWYDV9PeAq/rOZMVIAGgLFvue8LncjtjtAjYk=
 =+VMe
 -----END PGP PUBLIC KEY BLOCK-----
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Fingerprint: `A4B5 5642 82F4 C784 3EE5  3B08 E1B6 370F 9D63 CB23`
+</details>
+
