@@ -5,7 +5,7 @@ Hey!
 Just a random weeb that likes to program in his spare time. You can check out my dotfiles [here](https://github.com/corrupteddrive/dotfiles).
 
 Visit https://linktr.ee/corruptedharddrive for my socials if you wanna be scarred for life.
-Oh and if you want to donate some BTC (which is *highly appreciated*) just check the drop-down below. Thx :)
+Oh and if you want to donate some BTC (which is *highly* appreciated) just check the drop-down below. Thx :)
 
 <details>
   <summary>BTC Address</summary>
