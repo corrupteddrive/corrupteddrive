@@ -4,17 +4,25 @@ Hey!
 
 Just a random weeb that likes to program in his spare time. You can check out my dotfiles [here](https://github.com/corrupteddrive/dotfiles).
 
-Visit https://linktr.ee/corruptedharddrive for my socials if you wanna be scarred for life.
-Oh and if you want to donate some BTC (which is *highly* appreciated) just check the drop-down below. Thx :)
+Visit https://linktr.ee/corruptedharddrive for my socials if you wanna be scarred for life. If you want to contact me I have [matrix](https://matrix.to/#/@corrupteddrive:matrix.org).
+Oh and if you want to donate some crypto (which is *highly* appreciated) just check the drop-downs below. Thx :)
 
 <details>
   <summary>BTC Address</summary>
   <br>
-  <img src="assets/qrcode.png">
+  <img src="assets/qrcode-btc.png">
   
   `bc1qkau4v6cljs8ugs84htfd3gzjx5pxuaxcf2zx03`
 </details>
+
+<details>
+  <summary>XMR Address</summary>
+  <br>
+  <img src="assets/qrcode-xmr.png">
   
+  `86tRBcFq7KVLcPBp1CHX6j2nsi8ug5JnaJYWZfQUx7V27VzWUeSoeV1Krn1iVzXwU4UCNZ7nBwqdnR9UXJYfW4QbGoVKv5A`
+</details>
+ 
 <details>
   <summary>PGP Key</summary>
   <br>
