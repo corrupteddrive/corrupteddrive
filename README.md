@@ -20,7 +20,7 @@ Oh and if you want to donate some crypto (which is *highly* appreciated) just ch
   <br>
   <img src="assets/qrcode-xmr.png">
   
-  `8839Kun52uTVVRpd7Lk3t9WmtpGzoH1EFS2SaLzAkvfRF6vhzyaJJnGJQ4ZDLZH8fN3mBRKfFgwkYSD6zNmN93U7Cgz1h81`
+  `87KryMHCGneehZzZhDMVeMhqrSgyVysySZbTbTJJMCsFQtdmReX5QhXLSu7AbZrPVAV3fD78qi6Hm7JNXAk6QxgfHiPUmZ3`
 </details>
  
 <details>
