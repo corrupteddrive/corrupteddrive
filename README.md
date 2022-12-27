@@ -171,7 +171,7 @@ DAeeutQTcJLQ0tZ2BkAWYDV9PeAq/rOZMVIAGgLFvue8LncjtjtAjYk=
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Fingerprint: `A4B5564282F4C7843EE53B08E1B6370F9D63CB23`
 
-Expires: `28/12/2022` The key has been revoked as of `27/12/2022`.
+Expires: `27/12/2022` The key has been revoked as of `27/12/2022`.
 
 </details>
 
