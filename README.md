@@ -28,6 +28,8 @@ Oh and if you want to donate some crypto (which is *highly* appreciated) just ch
   <br>
 
 Do not trust any other keys, whether they be on a keyserver or otherwise. This is my *only* key.
+
+[Click here if you want to import using a file instead](https://raw.githubusercontent.com/corrupteddrive/corrupteddrive/main/assets/31C692AFC08AA9170F8EE49668875AC481232F80.asc)
 ~~~~~~~~~~~~~~~~~~~~~
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
