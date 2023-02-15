@@ -12,7 +12,7 @@ Oh and if you want to donate some crypto (which is *highly* appreciated) just ch
   <br>
   <img src="assets/qrcode-btc.png">
   
-  `bc1qkau4v6cljs8ugs84htfd3gzjx5pxuaxcf2zx03`
+  `bc1q7y3ntltpmk6hmlclq82zxhuud4xq2jzku5a83s`
 </details>
 
 <details>
