@@ -101,11 +101,3 @@ Fingerprint: `31C692AFC08AA9170F8EE49668875AC481232F80`
 Expires: `never` (unless I say otherwise, which will be in a signed message)
   
 </details>
-
-<details>
-  <summary>OMEMO Fingerprint</summary>
-  <br>
-  
-  `550FD6D2 CD25229C 67963C50 6823C9FF D1C866BA 289FEF73 7AB0D68A 78D51723`
-
-</details>
