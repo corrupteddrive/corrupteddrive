@@ -16,6 +16,14 @@ Oh and if you want to donate some crypto (which is *highly* appreciated) just ch
 </details>
 
 <details>
+  <summary>LTC Address</summary>
+  <br>
+  <img src="assets/qrcode-ltc.png">
+  
+  `ltc1qgty4ehkavsrgzgy7a6jjm69g6gjcx8n5y3vway`
+</details>
+
+<details>
   <summary>XMR Address</summary>
   <br>
   <img src="assets/qrcode-xmr.png">
