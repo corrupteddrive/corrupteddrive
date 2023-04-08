@@ -2,4 +2,4 @@
 
 Hey!
 
-Just a weeb that likes to program in his spare time. You can check out my dotfiles [here](https://github.com/corrupteddrive/dotfiles).
+Just a weeb that likes to do shit sometimes. You can check out my dotfiles [here](https://github.com/corrupteddrive/dotfiles).
