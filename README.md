@@ -1,3 +1,3 @@
 <img src="assets/anime-pink-hair.gif">
 
-Hi! I don't really code much but when I do you'll see it on my profile probably. If you want to contact me here's my discord: c0rruptedata
+This account is just for browsing and creating issues on repos and stuff like that. For my own code and repositories, you can find them on my [Codeberg](https://codeberg.org/corrupted), which is open-source unlike GitHub (ironic ik). Keep in mind I don't code much so don't expect anything more than a couple dotfiles.
